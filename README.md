@@ -4,7 +4,7 @@
 ## Project Overview
 
 This project demonstrates an end-to-end **modern data engineering pipeline** using Azure and Databricks, following **industry best practices** such as the Medallion Architecture (Bronze, Silver, Gold).  
-The goal is to ingest data from **multiple heterogeneous sources**, transform and enrich it, and prepare analytics-ready datasets for downstream analysis using Databricks and BI tools.
+The goal is to ingest data from **multiple heterogeneous sources**, transform and enrich it, and prepare analytics-ready datasets for downstream analysis using Databricks and rwadily available for Power BI visualisation.
 
 This project is intentionally designed to mirror **real-world enterprise data platforms** rather than toy examples.
 
