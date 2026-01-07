@@ -22,7 +22,7 @@ The pipeline enables analysis such as:
 - Product-level revenue and quantity trends
 - Daily transaction metrics
 - Customer purchasing behavior
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/c41bbfe2-af97-4c75-ac8b-632cc13e1701" />
+<img width="1024" height="572" alt="image" src="/https://github.com/fay-cloud/azure-project/blob/main/infographic%20image%20of%20the%20project.png" />
 
 ---
 
