@@ -22,7 +22,8 @@ The pipeline enables analysis such as:
 - Product-level revenue and quantity trends
 - Daily transaction metrics
 - Customer purchasing behavior
-<img width="1024" height="572" alt="image" src="infographic image of the project.png
+
+<img width="1024" height="572" alt="Azure Data Project Infographic" src="https://raw.githubusercontent.com/fay-cloud/azure-project/main/azure_data_pipeline_infographic.png">
 
 ---
 
