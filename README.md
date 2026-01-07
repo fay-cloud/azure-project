@@ -167,4 +167,4 @@ The solution is intentionally realistic and aligns with how modern data teams op
 
 ## Author
 
-This project was designed and implemented as part of a professional data engineering portfolio to demonstrate practical, real-world data engineering skills.
+This project was designed and implemented as part of my data engineering portfolio to demonstrate practical, real-world data engineering skills.
